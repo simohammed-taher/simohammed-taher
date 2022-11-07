@@ -1,10 +1,10 @@
-![logo](https://github.com/samhamed/Mohammed-Taher/blob/main/git2.webp)
+
 <h1 align="center">Hi 👋, I'm Mohammed Taher</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samhamed&label=Profile%20views&color=0e75b6&style=flat" alt="samhamed" /> </p>
-
+![logo](https://github.com/samhamed/Mohammed-Taher/blob/main/git2.webp)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taherta78606435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taherta78606435" height="30" width="40" /></a>
