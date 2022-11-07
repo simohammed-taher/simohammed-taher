@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samhamed&label=Profile%20views&color=0e75b6&style=flat" alt="samhamed" /> </p>
-![logo](https://github.com/samhamed/Mohammed-Taher/blob/main/git2.webp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samhamed&show_icons=true&locale=en" alt="samhamed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samhamed&" alt="samhamed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samhamed&" alt="samhamed" /></p>   
+<p align="center"><img  src="https://github.com/samhamed/Mohammed-Taher/blob/main/git2.webp"></p>
