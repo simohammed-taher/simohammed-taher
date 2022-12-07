@@ -1,4 +1,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohammed Taher <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+  
+  
+  
+  ```
+----------------
+💻 I am a self taught FrontEnd Developer
+📝 I have a strong interest in Web Development
+🔭 Working on Huge FronEnd Projects
+🌱 Learning about BackEnd
+🌟 Main languages: JavaScript
+🚩 Interested in Full Stack Web Development
+```
+  
+  
+  
 <h3 align="center">I'm a passionate Junior Full-Stack Developer from Morocco
 </h3></h1></a>
 
@@ -67,3 +82,16 @@
 
 
 <p align="center"><img  src="https://raw.githubusercontent.com/samhamed/samhamed/main/git2.webp"></p>
+<p align="center">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p>
+
+
+
+
+
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=samhamed&theme=monokai	)](https://github.com/samhamed/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samhamed&theme=monokai	)
