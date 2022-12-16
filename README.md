@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohammed Taher <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
   
-  
+<!--   
   ```
 ----------------
 💻 I am a self taught FrontEnd Developer
@@ -9,21 +9,23 @@
 🌱 Learning about BackEnd
 🌟 Main languages: JavaScript
 🚩 Interested in Full Stack Web Development
-```
+``` -->
   
+  <p align="center">
+<a href="https://github.com/samhamed/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;Flutter+Developer;JavaScript+Developer&center=true&width=380&height=45"></a>
+</p>
   
-  
-<h3 align="center">I'm a passionate Junior Full-Stack Developer from Morocco
+<!-- <h3 align="center">I'm a passionate Junior Full-Stack Developer from Morocco -->
 </h3></h1></a>
 
 <p align="center">
   <br/>
 <kbd>
 <a href="https://github.com/samhamed/github-readme-stats"><img alt="samhamed  Typing" src="https://readme-typing-svg.herokuapp.com?color=%2316FF18&duration=5094&multiline=true&width=550&height=77&lines=Mohammed%40Helloworld%3A%24+echo+%22++Hello+Everyone%22;Taher%40Helloworld%3A%24+Hello+Everyone" /></a></kbd>
-    <br><br>
+<!--     <br><br>
      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/samhamed/github-readme-stats"><img alt="samhamed  Typing" src="https://readme-typing-svg.herokuapp.com?color=%235EB3FF&duration=5094&lines=I%E2%80%99m+Passionate+Tech+learner;Big+Challenging+Tasks" /></a>
  <br/>
-</p>
+</p> -->
  
 <p align="center"> 
   Visitors count<br>
@@ -88,9 +90,10 @@
 
 
 
-
+<!-- 
 
 <h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samhamed&theme=monokai	)](https://github.com/samhamed/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samhamed&theme=monokai	)
+ -->
