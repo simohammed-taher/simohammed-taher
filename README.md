@@ -21,7 +21,7 @@
 <p align="center">
   <br/>
 <kbd>
-<a href="https://github.com/samhamed/github-readme-stats"><img alt="samhamed  Typing" src="https://readme-typing-svg.herokuapp.com?color=%2316FF18&duration=5094&multiline=true&width=550&height=77&lines=Mohammed%40Helloworld%3A%24+echo+%22++Hello+Everyone%22;Taher%40Helloworld%3A%24+Hello+Everyone" /></a></kbd>
+<a href="https://github.com/simohammed-taher/github-readme-stats"><img alt="samhamed  Typing" src="https://readme-typing-svg.herokuapp.com?color=%2316FF18&duration=5094&multiline=true&width=550&height=77&lines=Mohammed%40Helloworld%3A%24+echo+%22++Hello+Everyone%22;Taher%40Helloworld%3A%24+Hello+Everyone" /></a></kbd>
 <!--     <br><br>
      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/samhamed/github-readme-stats"><img alt="samhamed  Typing" src="https://readme-typing-svg.herokuapp.com?color=%235EB3FF&duration=5094&lines=I%E2%80%99m+Passionate+Tech+learner;Big+Challenging+Tasks" /></a>
  <br/>
@@ -71,24 +71,40 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <br/><hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=simohammed-taher&show_icons=true&locale=en&theme=dark&background=000000" alt="samhamed"  />
-<h3 align="centre">           </h3><br/>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=simohammed-taher&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simohammed-taher&theme=tokyonight&layout=compact" />
+</div>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=simohammed-taher&show_icons=true&locale=en&theme=dark&background=000000" alt=""  />
+<h3 align="centre">           </h3><br/> -->
 <p><a href="https://www.buymeacoffee.com/SamhammedTHR"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SamhammedTHR" /></a>
   
   
   
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samhamed&theme=dark&background=000000" alt="samhamed" />
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="25%" height="7%"/>
-
-
+<!--   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=simohammed-taher&theme=dark&background=000000" alt="simohammed-taher" /> -->
+ 
+ 
+ 
+<!--  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="25%" height="7%"/>
 
 <p align="center"><img  src="https://raw.githubusercontent.com/simohammed-taher/simohammed-taher/main/git2.webp"></p>
 <p align="center">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p> -->
+<p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=simohammed-taher&theme=dark&background=000000" alt="simohammed-taher" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="25%" height="7%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simohammed-taher/simohammed-taher/main/git2.webp">
+</p>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 <!-- 
 
@@ -96,4 +112,5 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samhamed&theme=monokai	)](https://github.com/samhamed/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samhamed&theme=monokai	)
+
  -->
