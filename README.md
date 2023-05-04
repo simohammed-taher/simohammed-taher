@@ -114,4 +114,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=samhamed&theme=monokai	)](https://github.com/samhamed/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samhamed&theme=monokai	)
 
  -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=simohammed-taher&bg_color=030303&color=29d64b&line=18c964&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=simohammed-taher&bg_color=000000&color=ffffff&line=00ff40&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
